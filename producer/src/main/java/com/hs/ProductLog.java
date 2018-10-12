@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.*;
-
+//韩双添加
 public class ProductLog {
 
     //随机生成两个电话号码
